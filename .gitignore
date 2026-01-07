@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+nltk_data/
+wordcloud.png
+discovery_queue_log.csv
