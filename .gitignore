@@ -4,3 +4,4 @@ __pycache__/
 nltk_data/
 wordcloud.png
 discovery_queue_log.csv
+*:Zone.Identifier
